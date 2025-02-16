@@ -1,0 +1,4 @@
+package Library
+
+class fictional {
+}
