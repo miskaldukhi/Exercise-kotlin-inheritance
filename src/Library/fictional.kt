@@ -12,4 +12,3 @@ open class FictionBook(val title: String,val author: String, val genre:String, v
         fictional.displayInfo()
     }
 }
-}
